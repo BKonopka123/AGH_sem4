@@ -1,0 +1,3 @@
+/home/bkonopka/pliki/is semestr 4/grafika laby/przygotowanie/lab4/build/CMakeFiles/rebuild_cache.dir
+/home/bkonopka/pliki/is semestr 4/grafika laby/przygotowanie/lab4/build/CMakeFiles/edit_cache.dir
+/home/bkonopka/pliki/is semestr 4/grafika laby/przygotowanie/lab4/build/CMakeFiles/main.dir

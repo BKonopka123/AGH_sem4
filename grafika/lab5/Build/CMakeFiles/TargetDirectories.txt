@@ -1,0 +1,3 @@
+C:/Users/bkono/OneDrive/Pulpit/lab5/Build/CMakeFiles/main.dir
+C:/Users/bkono/OneDrive/Pulpit/lab5/Build/CMakeFiles/edit_cache.dir
+C:/Users/bkono/OneDrive/Pulpit/lab5/Build/CMakeFiles/rebuild_cache.dir
