@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Kolo.h
+iostream
+-
+Ksztalt.h
+../include/Ksztalt.h
+
+../include/Ksztalt.h
+iostream
+-
+
+../include/Kwadrat.h
+iostream
+-
+Ksztalt.h
+../include/Ksztalt.h
+
+../include/Trojkat.h
+iostream
+-
+cmath
+-
+Ksztalt.h
+../include/Ksztalt.h
+
+/home/stud2021/1konopka/Desktop/sem4/cpp/laby/lab5/Main.cpp
+iostream
+-
+Kwadrat.h
+/home/stud2021/1konopka/Desktop/sem4/cpp/laby/lab5/Kwadrat.h
+Kolo.h
+/home/stud2021/1konopka/Desktop/sem4/cpp/laby/lab5/Kolo.h
+Trojkat.h
+/home/stud2021/1konopka/Desktop/sem4/cpp/laby/lab5/Trojkat.h
+
