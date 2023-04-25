@@ -1,0 +1,31 @@
+python3.9
+
+#A - dodawanie elementu
+forStatement         => 361111325
+listComprehension    => 192832591
+mapFunction          => 366187
+generatorExpression  => 493459
+
+#B -  dodawanie elementu podniesionego do kwadratu
+forStatement         => 2039136943
+listComprehension    => 1861275542
+mapFunction          => 391065
+generatorExpression  => 385632
+
+#C - sumowanie elementów z wykorzystaniem pętli for
+forStatement         => 2347656571
+listComprehension    => 2169989879
+mapFunction          => 469858
+generatorExpression  => 2207784235
+
+#D - sumowanie z wykorzystaniem funkcji sum
+forStatement         => 2042226367
+listComprehension    => 1887944913
+mapFunction          => 452659
+generatorExpression  => 1946712193
+
+#E - konwersja obiektu map i generatora do listy
+forStatement         => 52783 #tu bylo tylko return 0
+listComprehension    => 53043 #tu bylo tylko return 0
+mapFunction          => 2417018746
+generatorExpression  => 2002471321
