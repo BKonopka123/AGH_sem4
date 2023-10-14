@@ -32,4 +32,4 @@ class Point : public Named
         double getY() const {return _y;}
 };
 
-std::ostream & operator<<(std::ostream & o, const Point & a);
+//std::ostream & operator<<(std::ostream & o, const Point & a);

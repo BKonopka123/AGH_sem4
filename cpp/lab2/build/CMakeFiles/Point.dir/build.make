@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/bkonopka/pliki/is semestr 4/c++ laby/moje skonczone/lab2"
+CMAKE_SOURCE_DIR = "/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab2"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/bkonopka/pliki/is semestr 4/c++ laby/moje skonczone/lab2/build"
+CMAKE_BINARY_DIR = "/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab2/build"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Point.dir/depend.make
@@ -59,29 +59,29 @@ include CMakeFiles/Point.dir/flags.make
 
 CMakeFiles/Point.dir/Main.cpp.o: CMakeFiles/Point.dir/flags.make
 CMakeFiles/Point.dir/Main.cpp.o: ../Main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/bkonopka/pliki/is semestr 4/c++ laby/moje skonczone/lab2/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Point.dir/Main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Point.dir/Main.cpp.o -c "/home/bkonopka/pliki/is semestr 4/c++ laby/moje skonczone/lab2/Main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab2/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Point.dir/Main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Point.dir/Main.cpp.o -c "/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab2/Main.cpp"
 
 CMakeFiles/Point.dir/Main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Point.dir/Main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/bkonopka/pliki/is semestr 4/c++ laby/moje skonczone/lab2/Main.cpp" > CMakeFiles/Point.dir/Main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab2/Main.cpp" > CMakeFiles/Point.dir/Main.cpp.i
 
 CMakeFiles/Point.dir/Main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Point.dir/Main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/bkonopka/pliki/is semestr 4/c++ laby/moje skonczone/lab2/Main.cpp" -o CMakeFiles/Point.dir/Main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab2/Main.cpp" -o CMakeFiles/Point.dir/Main.cpp.s
 
 CMakeFiles/Point.dir/src/StringFun.cpp.o: CMakeFiles/Point.dir/flags.make
 CMakeFiles/Point.dir/src/StringFun.cpp.o: ../src/StringFun.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/bkonopka/pliki/is semestr 4/c++ laby/moje skonczone/lab2/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Point.dir/src/StringFun.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Point.dir/src/StringFun.cpp.o -c "/home/bkonopka/pliki/is semestr 4/c++ laby/moje skonczone/lab2/src/StringFun.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab2/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Point.dir/src/StringFun.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Point.dir/src/StringFun.cpp.o -c "/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab2/src/StringFun.cpp"
 
 CMakeFiles/Point.dir/src/StringFun.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Point.dir/src/StringFun.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/bkonopka/pliki/is semestr 4/c++ laby/moje skonczone/lab2/src/StringFun.cpp" > CMakeFiles/Point.dir/src/StringFun.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab2/src/StringFun.cpp" > CMakeFiles/Point.dir/src/StringFun.cpp.i
 
 CMakeFiles/Point.dir/src/StringFun.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Point.dir/src/StringFun.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/bkonopka/pliki/is semestr 4/c++ laby/moje skonczone/lab2/src/StringFun.cpp" -o CMakeFiles/Point.dir/src/StringFun.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab2/src/StringFun.cpp" -o CMakeFiles/Point.dir/src/StringFun.cpp.s
 
 # Object files for target Point
 Point_OBJECTS = \
@@ -95,7 +95,7 @@ Point: CMakeFiles/Point.dir/Main.cpp.o
 Point: CMakeFiles/Point.dir/src/StringFun.cpp.o
 Point: CMakeFiles/Point.dir/build.make
 Point: CMakeFiles/Point.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/bkonopka/pliki/is semestr 4/c++ laby/moje skonczone/lab2/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Point"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab2/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Point"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Point.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -108,6 +108,6 @@ CMakeFiles/Point.dir/clean:
 .PHONY : CMakeFiles/Point.dir/clean
 
 CMakeFiles/Point.dir/depend:
-	cd "/home/bkonopka/pliki/is semestr 4/c++ laby/moje skonczone/lab2/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/bkonopka/pliki/is semestr 4/c++ laby/moje skonczone/lab2" "/home/bkonopka/pliki/is semestr 4/c++ laby/moje skonczone/lab2" "/home/bkonopka/pliki/is semestr 4/c++ laby/moje skonczone/lab2/build" "/home/bkonopka/pliki/is semestr 4/c++ laby/moje skonczone/lab2/build" "/home/bkonopka/pliki/is semestr 4/c++ laby/moje skonczone/lab2/build/CMakeFiles/Point.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab2/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab2" "/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab2" "/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab2/build" "/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab2/build" "/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab2/build/CMakeFiles/Point.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Point.dir/depend
 

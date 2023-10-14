@@ -26,9 +26,12 @@
 // * archiwum nie powinno zawierać katalogu build/
 
 
+
+
 #include <iostream>
 #include <algorithm>
 #include "StringFun.h"
+bool chuj(const MyString a, const MyString b) {return a <= b ? 1 : 0;}
 
 int main() {
 
@@ -47,7 +50,7 @@ int main() {
   std::cout << "Original unsorted names:" << std::endl;
   PrintNames(names);
   
-  std::sort( names.begin(), names.end(), Less() ); // to jest ten sam funkctor co w linii 36
+  std::sort( names.begin(), names.end(), std::greater<MyString>() ); // to jest ten sam funkctor co w linii 36
   std::cout << "Sorted names (alphabetical, ascending):" << std::endl;
   PrintNames(names);
   

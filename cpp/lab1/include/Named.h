@@ -16,4 +16,4 @@ class Named
         void setStr(std::string str) {_str=str;}
 };
 
-void operator>>(const std::string str, Named & a);
+//void operator>>(const std::string str, Named & a);

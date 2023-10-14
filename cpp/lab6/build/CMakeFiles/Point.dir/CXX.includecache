@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Data.h
+iostream
+-
+
+../include/List.h
+iostream
+-
+Data.h
+../include/Data.h
+
+/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab6/Main.cpp
+iostream
+-
+List.h
+/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab6/List.h
+Data.h
+/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab6/Data.h
+
+/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab6/src/Data.cpp
+Data.h
+/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab6/src/Data.h
+List.h
+/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab6/src/List.h
+
+/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab6/src/List.cpp
+List.h
+/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab6/src/List.h
+

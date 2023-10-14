@@ -16,21 +16,11 @@ vector
 algorithm
 -
 
-/home/bkonopka/pliki/is semestr 4/c++ laby/moje skonczone/lab2/Main.cpp
+/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab2/Main.cpp
 iostream
 -
 algorithm
 -
 StringFun.h
-/home/bkonopka/pliki/is semestr 4/c++ laby/moje skonczone/lab2/StringFun.h
-
-/home/bkonopka/pliki/is semestr 4/c++ laby/moje skonczone/lab2/src/StringFun.cpp
-iostream
--
-vector
--
-algorithm
--
-StringFun.h
-/home/bkonopka/pliki/is semestr 4/c++ laby/moje skonczone/lab2/src/StringFun.h
+/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab2/StringFun.h
 

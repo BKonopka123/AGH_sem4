@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_FLAGS = -g   -std=gnu++11
 
-CXX_DEFINES = -DPROJECTPATH="\"/home/bkonopka/pliki/is semestr 4/c++ laby/moje skonczone/lab2\""
+CXX_DEFINES = -DPROJECTPATH="\"/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab2\""
 
-CXX_INCLUDES = -I"/home/bkonopka/pliki/is semestr 4/c++ laby/moje skonczone/lab2/include" 
+CXX_INCLUDES = -I"/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab2/include" 
 
