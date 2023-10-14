@@ -1,3 +1,0 @@
-/home/bkonopka/pliki/is semestr 4/c++ laby/moje skonczone/lab1/build/CMakeFiles/rebuild_cache.dir
-/home/bkonopka/pliki/is semestr 4/c++ laby/moje skonczone/lab1/build/CMakeFiles/edit_cache.dir
-/home/bkonopka/pliki/is semestr 4/c++ laby/moje skonczone/lab1/build/CMakeFiles/Point.dir

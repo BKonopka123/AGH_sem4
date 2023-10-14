@@ -1,3 +1,0 @@
-/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab2/build/CMakeFiles/rebuild_cache.dir
-/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab2/build/CMakeFiles/edit_cache.dir
-/home/bkonopka/pliki/is semestr 4/AGH_sem4/cpp/lab2/build/CMakeFiles/Point.dir
